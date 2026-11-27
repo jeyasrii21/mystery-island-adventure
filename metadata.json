@@ -1,0 +1,6 @@
+{
+  "name": "Mystery Island Adventure",
+  "description": "Explore a vibrant 3D fantasy island across 5 challenging levels filled with forests, rivers, waterfalls, hidden treasures, and ancient guardians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
